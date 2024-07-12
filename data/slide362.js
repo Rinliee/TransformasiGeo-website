@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{F1508EB5-A141-4527-904D-CACE8A5ADDBA}'];loadHandler&&loadHandler(361, '<div id="spr0_5c2cb3d"><div id="spr1_5c2cb3d" class="kern slide"><img id="img1_5c2cb3d" src="data/img3.png" width="1920px" height="1080px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_5c2cb3d" class="kern slide"><div id="spr3_5c2cb3d" style="left:333.75px;top:540.75px;"><img id="img0_5c2cb3d" src="data/img130.png" width="927" height="209.25" alt="𝑻 𝒙,𝒚  (a,b)  𝑻 ′  𝒙+𝒂,𝒚+𝒃 \
+\
+ 𝒂,𝒃  merupakan vektor translasi"/></div></div></div>', '{"s":[]}');})();
